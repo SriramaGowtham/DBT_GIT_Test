@@ -1,1 +1,1 @@
-select 1 ID,'SRIRAMA GOWTHAM' Name,'M' Gender
+select 1 ID,'SRIRAMA GOWTHAM' Name,'M' Gender,'AP' Location
